@@ -1,0 +1,16 @@
+
+# Environment variables and secrets
+.env
+*.pem
+secrets.*
+
+# Database backups
+*.sql.gz
+*.dump
+*.bak
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
