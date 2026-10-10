@@ -1,5 +1,5 @@
-# mysql-sql-practice-portfolio.# 
-\
+# mysql-sql-practice-portfolio.
+
 # MySQL SQL Practice Portfolio
 
 A collection of five SQL challenges demonstrating practical MySQL skills for data analytics.
