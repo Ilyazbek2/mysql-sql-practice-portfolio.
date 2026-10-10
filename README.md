@@ -1,4 +1,3 @@
-# mysql-sql-practice-portfolio.
 
 # MySQL SQL Practice Portfolio
 
