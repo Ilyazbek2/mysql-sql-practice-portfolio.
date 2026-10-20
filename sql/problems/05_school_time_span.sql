@@ -10,11 +10,6 @@
 -- Output column:
 -- time
 
-USE sql_practice_portfolio;
-
--- Write your solution here.
-
-
 
 -- Solution 5: Time Spent at School
 
