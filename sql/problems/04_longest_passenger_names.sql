@@ -6,13 +6,7 @@
 -- Return all passengers tied for the maximum length.
 --
 -- Output column:
--- name
-
-USE sql_practice_portfolio;
-
--- Write your solution here.
-
-
+-- namt
 
 
 -- Solution 4: Passengers with the Longest Full Name
