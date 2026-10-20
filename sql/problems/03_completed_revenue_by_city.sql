@@ -10,11 +10,6 @@
 -- Output columns:
 -- city | total_revenue
 
-USE sql_practice_portfolio;
-
--- Write your solution here.
-
-
 
 -- Solution 3: Completed Booking Revenue by City
 
