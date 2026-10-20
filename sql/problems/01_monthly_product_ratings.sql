@@ -9,10 +9,6 @@
 -- Output columns:
 -- product_id | mth | avg_stars
 
-USE sql_practice_portfolio;
-
--- Write your solution here.
-
 
 
 -- Solution 1: Monthly Product Ratings
