@@ -1,4 +1,3 @@
-
 -- Challenge 5: Time Spent at School
 --
 -- Calculate the time from the start of lesson 2
