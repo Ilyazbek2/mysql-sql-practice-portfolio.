@@ -1,4 +1,3 @@
-
 -- Challenge 1: Monthly Product Ratings
 --
 -- Calculate the average rating for each product
@@ -8,7 +7,6 @@
 --
 -- Output columns:
 -- product_id | mth | avg_stars
-
 
 
 -- Solution 1: Monthly Product Ratings
