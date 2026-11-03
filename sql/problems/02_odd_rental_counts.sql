@@ -7,7 +7,6 @@
 -- Output columns:
 -- room_id | count
 
-
 -- Solution 2: Rooms Rented an Odd Number of Times
 
 USE sql_practice_portfolio;
