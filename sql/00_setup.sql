@@ -1,4 +1,3 @@
-
 CREATE DATABASE IF NOT EXISTS sql_practice_portfolio;
 USE sql_practice_portfolio;
 
