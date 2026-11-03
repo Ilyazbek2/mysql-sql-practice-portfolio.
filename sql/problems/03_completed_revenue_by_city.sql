@@ -24,4 +24,3 @@ JOIN properties AS p
 WHERE b.status = 'completed'
 GROUP BY p.city
 ORDER BY total_revenue DESC;
-
