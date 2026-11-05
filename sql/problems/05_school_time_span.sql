@@ -5,7 +5,6 @@
 --
 -- Use the Timepair table.
 -- Return the result as a column named time.
---
 -- Output column:
 -- time
 
