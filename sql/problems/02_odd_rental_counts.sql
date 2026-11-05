@@ -3,7 +3,6 @@
 --
 -- Find rooms that were rented an odd number of times.
 -- Use COUNT(*) AS count for the rental count.
---
 -- Output columns:
 -- room_id | count
 
