@@ -5,7 +5,7 @@
 -- Spaces, hyphens, and periods count as characters.
 -- Return all passengers tied for the maximum length.
 -- Output column:
--- namt
+-- name
 
 
 -- Solution 4: Passengers with the Longest Full Name
