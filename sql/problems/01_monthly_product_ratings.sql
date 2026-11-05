@@ -4,7 +4,6 @@
 -- in each month when reviews were submitted.
 --
 -- Round average ratings to two decimal places.
---
 -- Output columns:
 -- product_id | mth | avg_stars
 
