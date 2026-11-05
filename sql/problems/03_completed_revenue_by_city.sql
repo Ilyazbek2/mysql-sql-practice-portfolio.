@@ -6,7 +6,6 @@
 --
 -- Include only bookings with status = 'completed'.
 -- Sort total revenue in descending order.
---
 -- Output columns:
 -- city | total_revenue
 
